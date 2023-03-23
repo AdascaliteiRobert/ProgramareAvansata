@@ -1,0 +1,10 @@
+[ {
+  "id" : "2",
+  "name" : "Mafia.txt",
+  "location" : "Mafia.txt",
+  "tags" : {
+    "year" : "2023",
+    "author" : "Robert",
+    "title" : "Mafia"
+  }
+} ]

@@ -1,0 +1,10 @@
+[ {
+  "id" : "1",
+  "name" : "great-gatsby.pdf",
+  "location" : "file:///home/user/documents/great-gatsby.pdf",
+  "tags" : {
+    "year" : "1925",
+    "author" : "F. Scott Fitzgerald",
+    "title" : "The Great Gatsby"
+  }
+} ]
