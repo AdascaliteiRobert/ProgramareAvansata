@@ -1,0 +1,11 @@
+org\example\CommandNotFoundException.class
+org\example\InvalidDataException.class
+org\example\ViewCommand.class
+org\example\ListCommand.class
+org\example\Main.class
+org\example\Catalog.class
+org\example\Document.class
+org\example\CatalogManager.class
+org\example\Command.class
+org\example\AddCommand.class
+org\example\ReportCommand.class
